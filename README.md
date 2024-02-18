@@ -1,4 +1,3 @@
-<center>
 # 💫 About Me:
 I am a fullstack web developer passionate about creating engaging and functional web experiences.
 
@@ -34,8 +33,6 @@ I am a fullstack web developer passionate about creating engaging and functional
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-
-</center>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Laura398&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
