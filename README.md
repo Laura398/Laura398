@@ -71,12 +71,4 @@
 
 </div>
 
-<h3 align="center"> ✍️ Random Dev Quote </h3>
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
